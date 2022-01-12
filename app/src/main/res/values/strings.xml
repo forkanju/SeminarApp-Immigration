@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GIC Seminar</string>
+    <string name="councilor">Councilor</string>
+    <string name="rafia_farzana_borna">Rafia Farzana Borna</string>
+    <string name="todo">TODO</string>
+    <string name="john_doe">John Doe</string>
+    <string name="_8801830281708">+8801830281708</string>
+    <string name="_09">09</string>
+    <string name="serial_no">Serial no:</string>
+    <string name="counter_no">Counter no:</string>
+    <string name="_03">03</string>
+    <string name="landscap_ui_title_text">Exclusive Immigration \nSeminar.</string>
+    <string name="ladscap_ui_sub_title_txt">Scan your QR code here and validate your \nregistration. It\'s free of course!</string>
+
+</resources>

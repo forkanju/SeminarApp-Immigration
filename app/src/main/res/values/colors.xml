@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFDD00</color>
+    <color name="colorPrimaryDark">#FFDD00</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="viewfinder_mask">#33000000</color>
+    <color name="viewfinder_laser">#00FFFFFF</color>
+    <color name="viewfinder_border">#FFDD00</color>
+</resources>

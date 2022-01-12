@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SourceCode/OfficeVisit_uxp/app/src/main/res/drawable/button_bg.xml" value="0.177" />
+        <entry key="..\:/SourceCode/OfficeVisit_uxp/app/src/main/res/drawable/input_text_bg.xml" value="0.162" />
+        <entry key="..\:/SourceCode/OfficeVisit_uxp/app/src/main/res/layout-land/activity_main.xml" value="0.21041666666666667" />
+        <entry key="..\:/SourceCode/OfficeVisit_uxp/app/src/main/res/layout/activity_admission.xml" value="0.20416666666666666" />
+        <entry key="..\:/SourceCode/OfficeVisit_uxp/app/src/main/res/layout/activity_loading.xml" value="0.20416666666666666" />
+        <entry key="..\:/SourceCode/OfficeVisit_uxp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/SourceCode/OfficeVisit_uxp/app/src/main/res/layout/activity_result.xml" value="0.20416666666666666" />
+        <entry key="..\:/SourceCode/OfficeVisit_uxp/app/src/main/res/layout/result_ui_layout_previous.xml" value="0.20416666666666666" />
+        <entry key="..\:/Workspace/OfficeVisitImmi/app/src/main/res/layout-land/activity_main.xml" value="0.19166666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16_PREVIEW" project-jdk-name="16" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
